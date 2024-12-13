@@ -7,3 +7,11 @@ body{
     display: flex;
 }
 
+
+.w-300{
+    width: 300px;
+
+}
+.gap-4{
+    gap: 1570px;
+}
